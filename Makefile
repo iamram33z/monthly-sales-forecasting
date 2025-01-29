@@ -1,5 +1,5 @@
 # Define the Python environment
-PYTHON = python3
+PYTHON = python
 PIP = pip
 
 # Define the location for virtual environment

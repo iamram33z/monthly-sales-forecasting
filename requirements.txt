@@ -1,5 +1,13 @@
 pandas
 numpy
 matplotlib
+ipykernel
+ipython
+jupyter
+plotly
+plotly_express
+seaborn
+statsmodels
+databricks-connect==7.3.*
 
 -e  .
